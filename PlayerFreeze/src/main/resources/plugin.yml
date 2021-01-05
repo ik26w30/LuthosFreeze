@@ -1,0 +1,13 @@
+name: PlayerFreeze
+version: 0.1
+main: org.ik26w30.luthos.playerfreeze.PlayerFreeze
+author: Ik26w30
+description: idk
+commands:
+  control:
+    aliases:
+      - freeze
+      - controllo
+  areacontrol:
+    aliases:
+      - areac

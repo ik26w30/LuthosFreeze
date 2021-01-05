@@ -1,0 +1,32 @@
+cheater:
+  target-freezed-message-one: '&3&lLuthos&5&lFreeze'
+  target-freezed-message-two: ''
+  target-freezed-message-three: '&3&lYou are been freezed by our operator!'
+  target-freezed-message-four: ''
+  target-freezed-message-five: '&3&lJoin on ts.luthos.eu'
+  target-freezed-message-six: ''
+  target-freezed-message-seven: 'You''ve got 5 minutes'
+  target-freezed-message-eight: ''
+
+  #-----------------------------------------------------------------------------
+  #
+  #                             All right reserved
+  #                               ZionsStudios
+  #
+  #-----------------------------------------------------------------------------
+
+  target-unfreezed-message-one: '&3&lLuthos&5&lUnFreeze'
+  target-unfreezed-message-two: ''
+  target-unfreezed-message-three: '&3&lYou are been Unfreezed by our operator!'
+  target-unfreezed-message-four: ''
+  target-unfreezed-message-five: '&3&lThank you for collaboration'
+  target-unfreezed-message-six: ''
+  target-unfreezed-message-seven: '&3&lGood stay!'
+  target-unfreezed-message-eight: ''
+
+  #-----------------------------------------------------------------------------
+  #
+  #                             All right reserved
+  #                               ZionsStudios
+  #
+  #-----------------------------------------------------------------------------
